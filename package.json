@@ -1,0 +1,9 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test:e2e": "playwright test --project=chromium",
+    "test": "echo \"No unit tests configured\" && exit 0"
+  }
+}
