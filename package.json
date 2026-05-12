@@ -5,5 +5,8 @@
   "scripts": {
     "test:e2e": "playwright test --project=chromium",
     "test": "echo \"No unit tests configured\" && exit 0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
   }
 }
